@@ -1,9 +1,4 @@
 market,symbol,type,description,quote_currency,contract_multiplier,minimum_price_variation,lot_size
-
-#
-# Use # signs for comments
-#
-
 fxcm,AU200AUD,cfd,S&P/ASX index of Australian listed shares,USD,0.1,0.1,1
 fxcm,DE10YBEUR,cfd,Euro-Bund,EUR,10,0.001,1
 fxcm,XCUUSD,cfd,Copper,USD,100,0.0001,1
